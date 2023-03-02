@@ -1,5 +1,5 @@
 # Veri Bilimi Patikaları
-Bu repo Patika.dev eğitim platformundaki aşağıda yer alan eğitimlerde verilen ödevleri içerir:
+Bu repo patika.dev eğitim platformundaki aşağıda yer alan eğitimlerde verilen ödevleri içerir:
 
 [Başlangıç Seviye Veri Bilimi Patikası](https://app.patika.dev/paths/baslangic-seviye-veri-bilimi-patikasi)
 
