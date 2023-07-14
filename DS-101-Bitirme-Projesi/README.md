@@ -12,3 +12,5 @@
 
 **3.** Şaraplar kalitelerine göre çeşitli sınıflandırma algoritmaları ile sınıflandırıldı.
 + :point_right: **[Sınıflandırma](https://github.com/enesmanan/Patika-Veri-Bilimi/blob/main/DS-101-Bitirme-Projesi/red-wine-siniflandirma.ipynb)**
+
+**Çalışmanın Ingilizce versiyonu için [buraya](https://www.kaggle.com/code/enesfehmimanan/red-wine-quality-eda-prp-classification/notebook) tıklayınız.**
